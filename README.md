@@ -1,71 +1,77 @@
-Magic Math Master Practice
+# Magic Math Master Practice
 
-Magic Math Master Practice is an online learning platform for Magic Math Master, a tutoring business that supports students through maths practice, Math Club activities, and tutorial sessions.
+Welcome to **Magic Math Master Practice**, an online learning platform created for **Magic Math Master**, a tutoring business founded by **Dr. Tuyet Vu**.
 
-About the Project
+This platform is designed for registered students who join our **Math Club** or attend **tutorial sessions**. It provides a simple, supportive, and organised space where students can practise maths, submit their work, and receive personalised feedback from tutors.
 
-This repository contains the code for the Practice platform used by Magic Math Master. The platform is designed to provide a simple and supportive space where registered students can practise maths, submit their work, and receive feedback from tutors.
+## 🌟 Our Mission
 
-Key Features
+At **Magic Math Master**, we believe every student can grow in confidence and succeed in mathematics with the right support, guidance, and regular practice.
 
-Student registration and login
+Our mission is to help students build strong maths skills through:
 
-Tutor access and management
+- consistent practice
+- personalised tutor support
+- constructive feedback
+- a positive and encouraging learning environment
 
-Access to maths practice activities
+## 📚 About This Platform
 
-Submission of completed work and results
+This repository contains the code for the **Magic Math Master Practice** platform.
 
-Personalised feedback from tutors
+The platform allows registered students to:
 
-Progress tracking over time
+- access maths practice activities
+- complete and submit their work
+- receive feedback from tutors
+- track their learning progress
 
-Support for Math Club and tutorial participants
+It also allows tutors to:
 
-Simple and user-friendly interface
+- review student submissions
+- provide personalised feedback
+- support student learning in a clear and organised way
 
-Purpose
+## 👨‍🏫👩‍🎓 Who This Platform Is For
 
-The purpose of this project is to:
+- **Students** enrolled in **Math Club** or **tutorial sessions**
+- **Tutors** who guide learning and provide feedback
+- **Parents** who want a structured and supportive learning environment for their children
+- **Administrators** who manage student access, activities, and records
 
-help students practise maths regularly
+## ✨ Key Features
 
-support students enrolled in Math Club or tutorial sessions
+- Secure student registration and login
+- Tutor access and management
+- Online maths practice activities and exercises
+- Submission of completed work and answers
+- Personalised tutor feedback
+- Progress tracking
+- Support for both Math Club and tutorial students
+- Simple and user-friendly design
 
-make it easy for students to submit their work
+## 🎯 Project Goals
 
-allow tutors to review progress and provide feedback
+The goal of this platform is to create a safe and effective digital learning space where students can:
 
-build student confidence and skills in mathematics
+- strengthen their maths foundations
+- improve problem-solving skills
+- develop regular study habits
+- build confidence in their abilities
 
-Who It Is For
+By combining structured practice with timely tutor feedback, **Magic Math Master Practice** helps students learn in a way that is engaging, organised, and supportive.
 
-Registered students who join Math Club or attend tutorials
+## 🔮 Future Improvements
 
-Tutors who provide guidance, mark work, and give feedback
+As the platform grows, future improvements may include:
 
-Administrators who manage student access, activities, and results
+- automatic marking for selected activities
+- student dashboards
+- downloadable progress reports
+- notifications when feedback is available
+- mobile-friendly design
+- separate learning areas for Math Club and tutorials
 
-Project Goals
+## 📄 License
 
-This platform aims to make maths learning more engaging, organised, and effective. By combining regular practice with clear tutor feedback, Magic Math Master Practice helps students strengthen their mathematical understanding and improve their problem-solving skills.
-
-Getting Started
-
-Setup instructions will be added as the project develops. This section can later include installation steps, project requirements, and deployment notes.
-
-Future Improvements
-
-Planned enhancements may include:
-
-automatic marking for selected activities
-
-student dashboards
-
-downloadable progress reports
-
-notifications when feedback is available
-
-mobile-friendly design improvements
-
-separate areas for Math Club and tutorials
+License information can be added later if needed.
