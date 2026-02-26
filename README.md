@@ -1,39 +1,71 @@
-# Practice
+Magic Math Master Practice
 
-**Practice** is an online learning platform where registered students can practise exercises, submit their results, and receive feedback to improve their learning.
+Magic Math Master Practice is an online learning platform for Magic Math Master, a tutoring business that supports students through maths practice, Math Club activities, and tutorial sessions.
 
-## Overview
+About the Project
 
-This repository contains the code for a student practice system designed to support regular learning and progress tracking. The platform allows students to complete practice tasks, submit their work, and receive feedback from teachers or assessors.
+This repository contains the code for the Practice platform used by Magic Math Master. The platform is designed to provide a simple and supportive space where registered students can practise maths, submit their work, and receive feedback from tutors.
 
-## Features
+Key Features
 
-- Student registration and login
-- Access to practice exercises
-- Submission of answers or results
-- Feedback from teachers or assessors
-- Progress tracking
-- Simple and user-friendly interface
+Student registration and login
 
-## Purpose
+Tutor access and management
 
-The goal of this project is to:
+Access to maths practice activities
 
-- help students practise regularly
-- make it easy to submit completed work
-- provide timely and useful feedback
-- support continuous improvement in learning
+Submission of completed work and results
 
-## Who Can Use It
+Personalised feedback from tutors
 
-- **Students**: to practise and submit their work
-- **Teachers / Assessors**: to review submissions and provide feedback
-- **Administrators**: to manage users, activities, and results
+Progress tracking over time
 
-## Getting Started
+Support for Math Club and tutorial participants
 
-To get started with this project:
+Simple and user-friendly interface
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/magicmathmasters/practice.git
+Purpose
+
+The purpose of this project is to:
+
+help students practise maths regularly
+
+support students enrolled in Math Club or tutorial sessions
+
+make it easy for students to submit their work
+
+allow tutors to review progress and provide feedback
+
+build student confidence and skills in mathematics
+
+Who It Is For
+
+Registered students who join Math Club or attend tutorials
+
+Tutors who provide guidance, mark work, and give feedback
+
+Administrators who manage student access, activities, and results
+
+Project Goals
+
+This platform aims to make maths learning more engaging, organised, and effective. By combining regular practice with clear tutor feedback, Magic Math Master Practice helps students strengthen their mathematical understanding and improve their problem-solving skills.
+
+Getting Started
+
+Setup instructions will be added as the project develops. This section can later include installation steps, project requirements, and deployment notes.
+
+Future Improvements
+
+Planned enhancements may include:
+
+automatic marking for selected activities
+
+student dashboards
+
+downloadable progress reports
+
+notifications when feedback is available
+
+mobile-friendly design improvements
+
+separate areas for Math Club and tutorials
