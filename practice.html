@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Magic Math Master – Practice (Grades 3–6)</title>
+  <link rel="stylesheet" href="practice.css" />
+</head>
+<body>
+  <main class="card">
+    <header class="header">
+      <h1>Magic Math Master</h1>
+      <p class="sub">Practice for Grades 3–6 • Instant feedback • Gets harder as you improve</p>
+    </header>
+
+    <section class="row">
+      <label class="field">
+        <span>Topic</span>
+        <select id="topic">
+          <option value="addsub">Addition & Subtraction</option>
+          <option value="multdiv">Multiplication & Division</option>
+          <option value="fractions">Fractions</option>
+          <option value="decimals">Decimals</option>
+          <option value="order">Order of Operations</option>
+          <option value="word">Word Problems</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span>Difficulty</span>
+        <div class="pill"><span id="levelLabel">Level 1</span></div>
+      </label>
+    </section>
+
+    <section class="questionBox">
+      <div id="question" class="question">Press “Start” to begin.</div>
+      <div id="hint" class="hint hidden"></div>
+    </section>
+
+    <section class="row">
+      <label class="field grow">
+        <span>Your answer</span>
+        <input id="answer" inputmode="decimal" autocomplete="off" placeholder="e.g., 24 or 1/2 or 0.5" />
+      </label>
+      <button id="checkBtn" class="btn">Check</button>
+    </section>
+
+    <section class="row">
+      <button id="startBtn" class="btn secondary">Start / Next</button>
+      <button id="hintBtn" class="btn secondary">Hint</button>
+      <button id="resetBtn" class="btn danger">Reset</button>
+    </section>
+
+    <section class="status">
+      <div>Score: <strong><span id="score">0</span></strong> / <span id="attempts">0</span></div>
+      <div>Streak: <strong><span id="streak">0</span></strong></div>
+      <div id="feedback" class="feedback"></div>
+    </section>
+
+    <footer class="footer">
+      <small>Tip: You can type fractions like <code>3/4</code> or decimals like <code>0.75</code>.</small>
+    </footer>
+  </main>
+
+  <script src="practice.js"></script>
+</body>
+</html>
